@@ -1,7 +1,7 @@
 {
   "main": "lib/commonjs/index.js",
   "name": "joker-test-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
