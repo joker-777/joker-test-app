@@ -49,5 +49,19 @@
   "eslintIgnore": [
     "node_modules/",
     "lib/"
-  ]
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joker-777/joker-test-app.git"
+  },
+  "author": "Johannes Köhler <joker777vs.666@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joker-777/joker-test-app/issues"
+  },
+  "homepage": "https://github.com/joker-777/joker-test-app#readme",
+  "description": ""
 }
